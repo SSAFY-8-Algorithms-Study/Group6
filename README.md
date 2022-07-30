@@ -21,7 +21,7 @@
 </div>
 <div align="center"> <strong>이경택  </strong>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
-&nbsp; &nbsp;&nbsp;&nbsp;
+&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
 @skylove308
 </div>
 <div align="center"> <strong>황정주  </strong>
