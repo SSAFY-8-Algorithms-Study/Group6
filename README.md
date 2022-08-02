@@ -9,10 +9,10 @@
 
 # 스터디원
 
-| 권동규 | @DQ-Kwon |
-| 서현경 | @nanalyee |
-| 이경택 | @skylove308 |
-| 황정주 | @wjdwn03 |
+| 권동규 | 서현경 | 이경택 | 황정주 |
+| --- | --- | --- | --- |
+|  @DQ-Kwon |  @nanalyee |  @skylove308  |  @wjdwn03 |
+
 <br>
 <br>
 <br>
