@@ -7,8 +7,6 @@
 <br>
 
 
-# Readme.md
-
 # 스터디원
 
 | 권동규 | @DQ-Kwon |
