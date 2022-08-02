@@ -7,65 +7,31 @@
 <br>
 
 
-## <div align="center"> Member </div>
+# Readme.md
 
-<div align="center"> <strong>권동규  </strong>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
-&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-@DQ-Kwon
-</div>
-<div align="center"> <strong>서현경  </strong>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
-&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-@nanalyee
-</div>
-<div align="center"> <strong>이경택  </strong>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
-&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
-@skylove308
-</div>
-<div align="center"> <strong>황정주  </strong>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
-&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-@wjdwn03
-</div>
-<br>
-<br>
-<br>
+# 스터디원
 
+| 권동규 | @DQ-Kwon |
+| --- | --- |
+| 서현경 | @nanalyee |
+| 이경택 | @skylove308 |
+| 황정주 | @wjdwn03 |
 
+# 진행방식
 
+- 각자 풀 수 있는 만큼 문제를 풉니다.
+- 매주 월요일, 목요일에 모여 리뷰를 합니다.
+    - 월요일 : 코드 리뷰 위주
+    - 목요일 : 실습, 진도 리뷰 위주
+- 다양한 풀이 방법을 서로 공유하고 효율적인 방향을 고민합니다.
 
+# 공통 문제 풀이 현황
 
-
-## <div align="center"> Rules</div>
-<div align="center"> 
-<table > 
- <th>rule</th>  
- <th>detail</th> 
-  <tr><!-- 첫번째 줄 시작 -->  
-  <td>&nbsp;&nbsp;모임&nbsp;&nbsp;</td>  
-  <td>&nbsp;&nbsp;게더타운 활용 매주 월요일 오후 10시
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>  
-  </tr><!-- 첫번째 줄 끝 -->  
-  <tr><!-- 두번째 줄 시작 -->  
-  <td>&nbsp;&nbsp;공지&nbsp;&nbsp;</td>  
-  <td>&nbsp;&nbsp;메터모스트, 카카오톡
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>  
-  </tr><!-- 두번째 줄 끝 -->  
-    <tr><!-- 두번째 줄 시작 -->  
-  <td>&nbsp;&nbsp;필수&nbsp;&nbsp;</td>  
-  <td>&nbsp;&nbsp;공통 문제 n점 이상
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>  
-  </tr><!-- 
-  </table>
-</div>
-<br>
-<br>
-<br>
-<br>
-<br>
-## <div align="center"> Goal</div>
-<div align="center"> <strong>수정 예정 </strong></div>
-
-
+|  |  | 권동규 | 서현경 | 이경택 | 황정주 |
+| --- | --- | --- | --- | --- | --- |
+| Week1 | BOJ1100 | ✅ | ✅ | ✅ | ✅ |
+|  | BOJ1059 | ✅ | ✅ | ✅ | ✅ |
+|  | BOJ1051 | ✅ | ✅ | ✅ | ✅ |
+|  | BOJ2468 | ✅ | ✅ | ✅ |  |
+|  | BOJ2573 | ✅ | ✅ | ✅ |  |
+|  |  |  |  |  |  |
